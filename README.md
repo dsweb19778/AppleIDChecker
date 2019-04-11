@@ -4,5 +4,5 @@ APPLE ACCOUNT CHECKER 2019
 * USAGE : python apple_account.py
 - Option1 = accounts file email:pass
 - Option2 = SPlit Betwen Ur EMAIL AND PASSWORD
-= Contact 
+* Contact 
 - Facebook.com/name.path

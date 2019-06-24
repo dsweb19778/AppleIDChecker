@@ -7,3 +7,6 @@
 - always in /rzlt file 
 # Contact Me :
 - https://Facebook.com/name.path
+# Donate
+* if this script make you happy please u can donate anything in my paypal 
+* ^_^ > https://paypal.me/wecandoittogheter

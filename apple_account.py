@@ -49,13 +49,17 @@ def main():
  clear = "\x1b[0m"
  colors = [36,30]
  xloogo = (""" 
-    DDDDDDDDDD    SSSSSSSSSS
-    DD      DD    SS      SS
-    DD      DD            SS
-    DD      DD    SSSSSSSSSS
-    DD      DD    SS        
-    DD      DD    SS      SS     
-    DDDDDDDDDD    SSSSSSSSSS
+	╔┓┏╦━━╦┓╔┓╔━━╗
+	║┗┛║┗━╣┃║┃║00║
+	║┏┓║┏━╣┗╣┗╣╰╯║
+	╚┛┗╩━━╩━╩━╩━━
+    DDDDDDDDDD  SSSSSSSSSS
+    DD      DD  SS      SS
+    DD      DD          SS
+    DD      DD  SSSSSSSSSS
+    DD      DD  SS        
+    DD      DD  SS      SS     
+    DDDDDDDDDD  SSSSSSSSSS
  """)
  for N, line in enumerate(xloogo.split("\n")):
             sys.stdout.write("\x1b[1;%dm%s%s\n" % (h.choice(colors), line, clear))
@@ -131,7 +135,6 @@ def main():
     if ("FR-FR" in language):
      die = "Votre identifiant Apple ou votre mot de passe n’a pas été saisi correctement.".encode()
      live = "SDL WorldServer 11.3.0.4589 - Login".encode()
-
     elif("EN-EN" in language):
      die = "Your Apple ID or password was entered incorrectly.".encode()
      live = "SDL WorldServer 11.3.0.4589 - Login".encode()

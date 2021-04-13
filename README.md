@@ -1,17 +1,17 @@
-![Alt Text](https://i.imgur.com/CtxDa8C.png)
+![applehat](https://i.imgur.com/CtxDa8C.png)
 
-# APPLE ACCOUNT CHECKER 2019
-* INSTALL LIBRARY : requests,colorama,fake_useragent,termcolor
-* USAGE : python apple_account.py
-- Option1 = Accounts file email:pass
-- Option2 = SPlit Betwen Ur EMAIL AND PASSWORD
+# APPLE HAT VALID EMAIL CHECKER
+* USAGE : python main.py
+- Option1 = listname.txt
 # Saved Rzlt
 - always in /rzlt file 
+- Configuration in /inc/config.py 
 # Contact Me :
-- https://Facebook.com/name.path
-# Version 2.0
-* Fix Errors Now Working on Python [3.8.0]
-* No LIMITED ACCOUNT JUST LIVE AND DIE
+- [Facebook](https://facebook.com/name.path)
+# Version 3.0 - Whats new?
+* Recoded and fixed bugs 
+* Now stable & More fast ...
+* Works on lastest python Version [3.9]
 # Donate
-* if this script make you happy please u can donate anything in my paypal 
-* ^_^ > https://paypal.me/wecandoittogheter
+* Me : [Paypal.me](https://paypal.me/wecandoittogheter) 
+

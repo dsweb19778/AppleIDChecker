@@ -121,10 +121,12 @@ def logo(author, date, version, title, ppid):  # logo
 
 def getkey(): # Extract Key
     end = "https://ss.apple.com"
-    key = req.get(end).url
+    se = req.Session()
+    key = se.get(end).url
     pars = url_parser.parse_url(key)
     joa = str(pars['path'])
     extr = re.findall("appIdKey=(.*?)&", joa)[0]
+    se.cookies.clear()
     return extr
 
 def apple_api(email):  # Apple API

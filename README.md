@@ -8,10 +8,10 @@
 - Configuration in **/inc/config.py**
 # Contact Me :
 - [Facebook](https://facebook.com/name.path)
-# Version 3.0 - Whats new?
-- Recoded and fixed bugs 
-- Now stable & More fast ...
-- Works on lastest python Version **[3.9]**
+# Version 4.0 - Whats new?
+- Add Threads x10 faster
+- Add counter to delay the request for unlimited checking
+- Fix some bugs
 # Donate
 - Me : **[Paypal.me](https://paypal.me/wecandoittogheter)**
 

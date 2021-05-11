@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Author : DSWEB19778
-# Version : 3.0
+# Version : 4.0
 # Title : Apple ID checker
 # Date : 2021
 # Donate : https://paypal.me/wecandoittogheter

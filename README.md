@@ -5,7 +5,7 @@
 - Option1 = **listname.txt**
 # Saved Rzlt
 - always in **/rzlt** file 
-- Configuration in **/inc/config.py**
+- Configuration in **/inc/api.py**
 # Contact Me :
 - [Facebook](https://facebook.com/name.path)
 # Version 4.0 - Whats new?

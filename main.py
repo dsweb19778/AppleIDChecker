@@ -14,7 +14,7 @@ import threading
 
 
 clear(system_eck())  # Clean Command
-print(logo("DSWEB19778", time.asctime(), "3.0",
+print(logo("DSWEB19778", time.asctime(), "4.0",
       "APPLE-API", "https://paypal.me/wecandoittogheter"))  # Logo COpyRights
 
 

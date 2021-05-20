@@ -8,7 +8,7 @@
 - Configuration in **/inc/api.py**
 # Contact Me :
 - [Facebook](https://facebook.com/name.path)
-# Version 4.0 - Whats new?
+# Version 5.0 - Whats new?
 - Add Threads x10 faster
 - Add counter to delay the request for unlimited checking
 - Add Proxy [NEW] Only Frech 

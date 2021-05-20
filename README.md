@@ -11,7 +11,7 @@
 # Version 4.0 - Whats new?
 - Add Threads x10 faster
 - Add counter to delay the request for unlimited checking
-- Fix some bugs
+- Add Proxy [NEW] Only Frech 
 # Donate
 - Me : **[Paypal.me](https://paypal.me/wecandoittogheter)**
 

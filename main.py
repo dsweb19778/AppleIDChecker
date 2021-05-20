@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Author : DSWEB19778
-# Version : 4.0
+# Version : 5.0
 # Title : Apple ID checker
 # Date : 2021
 # Donate : https://paypal.me/wecandoittogheter
@@ -14,7 +14,7 @@ import threading
 
 
 clear(system_eck())  # Clean Command
-print(logo("DSWEB19778", time.asctime(), "3.0",
+print(logo("DSWEB19778", time.asctime(), "5.0",
       "APPLE-API", "https://paypal.me/wecandoittogheter"))  # Logo COpyRights
 
 

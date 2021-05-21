@@ -3,6 +3,7 @@
 # APPLE HAT VALID EMAIL CHECKER
 - Usage : **python main.py**
 - Option1 = **listname.txt**
+- Option2 = **proxylist.txt**
 # Saved Rzlt
 - always in **/rzlt** file 
 - Configuration in **/inc/api.py**

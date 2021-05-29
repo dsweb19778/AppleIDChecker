@@ -19,7 +19,8 @@ try:
 
 except ImportError as imerr:
 
-    print("Library Error Please install all important library")
+    print("[+] Library Error Please install all important library")
+    print("[+] Install : fake_useragent, url_parser, requests")
     exit()
 
 

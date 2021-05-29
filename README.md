@@ -13,7 +13,7 @@
 - Add Threads x10 faster
 - Add counter to delay the request for unlimited checking
 - Add Proxy. Only Frech 
-- Add Timeout Emails [NOT CHECKED][NEW]
+- Add Timeout Emails [NOT CHECKED] !!NEW :fire:	 
 # Donate
 > Me : **[Paypal.me](https://paypal.me/wecandoittogheter)**
 

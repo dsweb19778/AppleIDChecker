@@ -1,4 +1,4 @@
-![applehat](https://i.imgur.com/SW3aqOg.mp4)
+![applehat](https://i.imgur.com/n88eogy.png)
 
 # APPLE HAT VALID EMAIL CHECKER
 - Usage : **python main.py**

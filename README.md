@@ -1,4 +1,4 @@
-![applehat](https://i.imgur.com/NJHfZT1.png)
+![applehat](https://i.imgur.com/SW3aqOg.mp4)
 
 # APPLE HAT VALID EMAIL CHECKER
 - Usage : **python main.py**
@@ -9,10 +9,11 @@
 - Configuration in **/inc/api.py**
 # Contact Me :
 - [Facebook](https://facebook.com/name.path)
-# Version 5.0 - Whats new?
+# Version 6.0 - Whats new?
 - Add Threads x10 faster
 - Add counter to delay the request for unlimited checking
-- Add Proxy [NEW] Only Frech 
+- Add Proxy. Only Frech 
+- Add Timeout Emails [NOT CHECKED][NEW]
 # Donate
 - Me : **[Paypal.me](https://paypal.me/wecandoittogheter)**
 

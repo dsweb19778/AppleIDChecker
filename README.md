@@ -16,4 +16,5 @@
 - :heavy_plus_sign: Add Timeout Emails [NOT CHECKED] !!NEW :fire:	 
 # Donate :arrow_left:	
 > Me : **[Paypal.me](https://paypal.me/wecandoittogheter)**
-
+# Download :arrow_left:	
+> Link : **[DOWNLOAD NOW](https://anonfiles.com/rdZ85dy5u8/AppleHAT_zip)**

@@ -4,6 +4,7 @@
 - :heavy_plus_sign:	 Usage : **python main.py**
 - :heavy_plus_sign:	 Option1 = **listname.txt**
 - :heavy_plus_sign:	 Option2 = **proxylist.txt**
+- :heavy_plus_sign:	 Required = **Python 3.9+**
 # Saved Rzlt :arrow_left:	
 - :heavy_plus_sign: always in **/rzlt** file 
 - :heavy_plus_sign: Configuration in **/inc/api.py**

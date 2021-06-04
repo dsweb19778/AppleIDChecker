@@ -15,7 +15,8 @@
 - :eight_spoked_asterisk:	 Add Threads x10 faster
 - :eight_spoked_asterisk:	 Add counter to delay the request for unlimited checking
 - :eight_spoked_asterisk:	 Add Proxy. Only Frech 
-- :eight_spoked_asterisk:	 Add Timeout Emails [NOT CHECKED] !!NEW :fire:	 
+- :eight_spoked_asterisk:	 Add Timeout Emails [NOT CHECKED]
+- :eight_spoked_asterisk:	 Fixing Bugs !!NEW :fire:	 
 # Donate :leftwards_arrow_with_hook:	
 > Me : **[Paypal.me](https://paypal.me/wecandoittogheter)**
 # Download :leftwards_arrow_with_hook:	

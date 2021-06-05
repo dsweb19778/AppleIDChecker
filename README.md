@@ -20,4 +20,4 @@
 # Donate :leftwards_arrow_with_hook:	
 > Me : **[Paypal.me](https://paypal.me/wecandoittogheter)**
 # Download :leftwards_arrow_with_hook:	
-> Link : **[DOWNLOAD NOW](https://anonfiles.com/rdZ85dy5u8/AppleHAT_zip)**
+> Link : **[DOWNLOAD NOW](https://anonfiles.com/z9V56cz5ud/AppleHAT_zip)**

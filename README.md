@@ -1,7 +1,8 @@
 ![applehat](https://i.imgur.com/sKRqtkQ.png)
 
 # Required :leftwards_arrow_with_hook:	
-:heavy_plus_sign:	 Required = **Python 3.9+**
+:heavy_plus_sign:	 Required = **Python 3.9+** 
+- :heavy_plus_sign:	 Library = fake_useragent, url_parser, requests, colorama
 # APPLE HAT VALID EMAIL CHECKER :arrow_left:	
 - :eight_spoked_asterisk:		 Usage : **python main.py**
 - :eight_spoked_asterisk:		 Option1 = **listname.txt**

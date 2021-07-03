@@ -1,4 +1,4 @@
-![applehat](https://i.imgur.com/sKRqtkQ.png)
+![applehat](https://i.imgur.com/FrTqRpq.png)
 
 # Required :leftwards_arrow_with_hook:	
 :heavy_plus_sign:	 Required = **Python 3.9+** 

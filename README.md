@@ -21,5 +21,5 @@
 - :eight_spoked_asterisk:	 Update !!NEW :fire:	 
 # Donate :leftwards_arrow_with_hook:	
 > Me : **[Paypal.me](https://paypal.me/wecandoittogheter)**
-# Download [New Download :fire:] :leftwards_arrow_with_hook:	
+# Download [New :fire:] :leftwards_arrow_with_hook:	
 > Link : **[DOWNLOAD NOW](https://anonfiles.com/5cPft943u4/AppleHAT_zip)**

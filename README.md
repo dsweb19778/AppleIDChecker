@@ -18,6 +18,7 @@
 - :eight_spoked_asterisk:	 Add Proxy. Only Frech 
 - :eight_spoked_asterisk:	 Add Timeout Emails [NOT CHECKED]
 - :eight_spoked_asterisk:	 Fixing Bugs !!NEW :fire:	 
+- :eight_spoked_asterisk:	 Update !!NEW :fire:	 
 # Donate :leftwards_arrow_with_hook:	
 > Me : **[Paypal.me](https://paypal.me/wecandoittogheter)**
 # Download :leftwards_arrow_with_hook:	

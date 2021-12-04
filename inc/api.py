@@ -52,7 +52,8 @@ def fakeagent(browser_name):  # generate a fake user agent for headers
         user = ag.chrome
     elif browser_name == "firefox":
         user = ag.firefox
-        return user
+    
+    return user
 
 
 def rzlt_folder():  # Check if rzlt folder exist or not and make one

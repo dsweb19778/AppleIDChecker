@@ -202,7 +202,7 @@ def apple_api(email, proxy):  # Apple API
     post = ses.post(url, data=datap, headers=headers,
                     proxies=proxys).content.decode("utf-8")
     dead = "Your account information was entered incorrectly."
-    live = "Error Description not available"
+    live = "Access denied. Your account does not have permission to access this application."
     limited = "This Apple ID has been locked for security reasons. Visit iForgot to reset your account"
 
     if dead in post:

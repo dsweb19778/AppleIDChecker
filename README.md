@@ -4,6 +4,9 @@
 </p>
 
 # Required :leftwards_arrow_with_hook:	
+:heavy_plus_sign:	 NOT UPDATES : EXPLOIT CLOSED
+
+# Required :leftwards_arrow_with_hook:	
 :heavy_plus_sign:	 Required = **Python 3.9+** 
 - :heavy_plus_sign:	 Library = fake_useragent, url_parser, requests, colorama
 # APPLE HAT VALID EMAIL CHECKER :arrow_left:	

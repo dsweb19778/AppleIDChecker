@@ -5,6 +5,7 @@
 
 # STATE :leftwards_arrow_with_hook:	
 :heavy_plus_sign:	 NOT UPDATES : EXPLOIT CLOSED
+:heavy_plus_sign:	 PREMIUM : **[BUY](https://shoppy.gg/product/45li4uZ)**
 
 # Required :leftwards_arrow_with_hook:	
 :heavy_plus_sign:	 Required = **Python 3.9+** 
